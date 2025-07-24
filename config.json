@@ -1,0 +1,32 @@
+{
+  "BALANCE": 0,
+  "ACTIVE": false,
+  "LAST_MENU_MESSAGE_ID": 53,
+  "PROFILES": [
+    {
+      "NAME": null,
+      "MIN_PRICE": 200,
+      "MAX_PRICE": 1000,
+      "MIN_SUPPLY": 1000,
+      "MAX_SUPPLY": 10000,
+      "LIMIT": 1500,
+      "COUNT": 2,
+      "TARGET_USER_ID": 5504458859,
+      "TARGET_CHAT_ID": null,
+      "TARGET_TYPE": null,
+      "SENDER": "USERBOT",
+      "BOUGHT": 0,
+      "SPENT": 0,
+      "DONE": false
+    }
+  ],
+  "USERBOT": {
+    "API_ID": 25126365,
+    "API_HASH": "f9e97efa8cbe9a8aa3fcc024b199d41b",
+    "PHONE": "+37377504485",
+    "USER_ID": 5504458859,
+    "USERNAME": "W3nnaCry",
+    "BALANCE": 0,
+    "ENABLED": true
+  }
+}
